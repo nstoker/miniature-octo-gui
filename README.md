@@ -1,6 +1,6 @@
-miniature-octo-robot
+miniature-octo-gui
 ====================
 
-A library for a simulation of a 6502 CPU.
+This is a simulator for the 6502 series of processors.
 
-© 2012 Neil Stoker. Licensed under the GPL v3, see the file COPYING for further details
+© 2012 Neil Stoker. Licensed under the GPL v3, see the file COPYING for further details.
